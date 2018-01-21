@@ -1,5 +1,5 @@
 // November 2011 USACO Bronze Contest
-// 
+// Problem 4: Cow Beauty Pageant
 
 #include <fstream>
 #include <cmath>
