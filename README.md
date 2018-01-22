@@ -8,3 +8,5 @@ If you copy this code you're probably going to be banned for life if caught.
 Although every contest IS different, so there is no need to copy code in the first place.
 
 But here is just a compendium of solutions for the interested (mainly friends)
+
+# My goal is to upload as many solutions as I can.
